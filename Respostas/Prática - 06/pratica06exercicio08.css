@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿html, body {
 	font-size: 1rem;
 	font-family: "Segoe UI", Verdana, Arial;
@@ -26,3 +27,33 @@ h1 {
 	font-weight: bold;
 	text-align: center;
 }
+=======
+﻿html, body {
+	font-size: 1rem;
+	font-family: "Segoe UI", Verdana, Arial;
+	height: 95%;
+}
+main {
+    margin: 2rem auto;
+    width: 32rem;
+    height: 30rem;
+}
+h1 {
+    color: red;
+    font-size: 2.7rem;
+    font-family: Verdana
+}
+.numero, .resultado {
+	color: white;
+	background-color: red;
+	height: 3rem;
+	padding: 1rem;
+	margin-bottom: 2rem;
+}
+.resultado {
+	background-color: red;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+>>>>>>> 95ac1fa647f8c843e772f2ac0120be4677e870ea

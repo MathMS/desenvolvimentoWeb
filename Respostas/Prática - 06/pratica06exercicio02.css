@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿html, body {
 	font-size: 1rem;
 	font-family: "Segoe UI", Verdana, Arial;
@@ -15,3 +16,22 @@ h1 {
     font-size: 1.5rem;
     font-family: Verdana
 }
+=======
+﻿html, body {
+	font-size: 1rem;
+	font-family: "Segoe UI", Verdana, Arial;
+	height: 95%;
+	padding: 10px 10px 10px;
+	margin: 20px 250px 5px;
+}
+main {
+    margin: 2rem auto;
+    width: 32rem;
+    height: 30rem;
+}
+h1 {
+    color: white;
+    font-size: 1.5rem;
+    font-family: Verdana
+}
+>>>>>>> 95ac1fa647f8c843e772f2ac0120be4677e870ea

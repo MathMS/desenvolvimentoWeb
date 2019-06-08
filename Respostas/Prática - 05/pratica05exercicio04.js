@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function somar(){
 
     var r = ""
@@ -23,3 +24,6 @@ function somar(){
 
         document.getElementById("resultado").innerHTML = r;
 }
+=======
+teste
+>>>>>>> 95ac1fa647f8c843e772f2ac0120be4677e870ea
